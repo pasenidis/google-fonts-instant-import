@@ -1,4 +1,4 @@
-# google-fonts-instant-import README
+# google-fonts-instant-import [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/Edward.google-fonts-instant-import.svg)](https://marketplace.visualstudio.com/items?itemName=Edward.google-fonts-instant-import) [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/downloads/Edward.google-fonts-instant-import.svg)](https://marketplace.visualstudio.com/items?itemName=Edward.google-fonts-instant-import)
 
 ## Features
 
@@ -6,11 +6,11 @@
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+No issues yet.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+Added 'Search & Add Font' function
 
 ### 1.0.0
 
