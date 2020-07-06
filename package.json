@@ -4,7 +4,7 @@
 	"description": "Get links to your favourite Google Fonts family directly from your editor.",
 	"publisher": "Edward",
 	"repository": "https://github.com/pasenidis/google-fonts-instant-import",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"icon": "https://raw.githubusercontent.com/pasenidis/google-fonts-instant-import/master/img/gfonts.png",
 	"engines": {
 		"vscode": "^1.46.0"
