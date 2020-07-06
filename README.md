@@ -25,7 +25,8 @@ No issues yet.
 
 ## Release Notes
 
-Improved fonts search prompt
+### 0.0.4
+Only search for the fonts if the user is editing HTML or CSS file.
 
 ### 0.0.3
 Add documentation and explain how the extension works.
