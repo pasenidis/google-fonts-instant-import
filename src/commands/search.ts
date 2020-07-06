@@ -30,7 +30,7 @@ let search = vscode.commands.registerCommand('google-fonts-instant-import.search
     let href: string;
     if (isFound) {
         vscode.window.showInformationMessage(`Adding ${font.family} to your selected area or current line`);
-        let href = `https://fonts.googleapis.com/css2?family=${font.family.split(' ').join('+')}:wght@300&display=swap`;
+        href = `https://fonts.googleapis.com/css2?family=${font.family.split(' ').join('+')}:wght@300&display=swap`;
         const editor = vscode.window.activeTextEditor;
         if (editor && isFound) {
             const document = editor.document;
