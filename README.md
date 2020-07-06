@@ -1,5 +1,5 @@
 # google-fonts-instant-import [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/Edward.google-fonts-instant-import.svg)](https://marketplace.visualstudio.com/items?itemName=Edward.google-fonts-instant-import) [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/downloads/Edward.google-fonts-instant-import.svg)](https://marketplace.visualstudio.com/items?itemName=Edward.google-fonts-instant-import)
-[![Extension Logo](https://raw.githubusercontent.com/pasenidis/google-fonts-instant-import/master/img/gfonts.png)]
+![Extension Logo](https://raw.githubusercontent.com/pasenidis/google-fonts-instant-import/master/img/gfonts.png)
 
 ## Features
 
